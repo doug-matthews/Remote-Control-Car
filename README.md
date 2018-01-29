@@ -1,86 +1,31 @@
 # Remote Control Car
 
-A DIY Remote Control Car built using a 3D printer and Arduino that can be wirelessly controlled by smartphone using Bluetooth.
+A DIY Remote Control Car built using a 3D printer and Arduino that can be wirelessly controlled by smartphone using Bluetooth. 
 
 ## Objectives
-* Mechanical Design - Design and build the mechanical components of the car using OnShape (open source CAD Software) and a 3D Printer.
-* Electronics - Use basic electrical components (Arduino, servo motors, etc) to control the car.
-* Wireless Contorl - Wirelessly connet to the car using a bluetooth module and design an app to control the car.
-* Website - Create a website to document the project.
+* **Mechanical Design** - Design and build the mechanical components of the car using OnShape (open source CAD Software) and a 3D Printer.
+* **Electronics** - Use basic electrical components (Arduino, servo motors, etc) to control the car.
+* **Wireless Contorl** - Wirelessly connet to the car using a bluetooth module and design an app to control the car.
+* **[Website](https://doug-matthews.github.io/Remote-Control-Car/)** - Create a website to document the project.
 
 ## Current Progress
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* **Completed** 
+  * Designed and built the basic chassis of the car.
+  * Found a template for the website and added some content.
+  * Obtained a bluetooth module and tested its functionality.
+ 
+* **Next Steps**
+  * Prtotype the electrical circuit and verify that it functions as expected.
+  * Add more content to the website.
+  * Create a Bluetooth app to control the car.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Additional Links
+* **[OnShape Project](https://cad.onshape.com/documents/23f2e9f6345a567f873c58ac/w/3e798f0b4164c9e516b7c30d/e/92abe29c7836aa413a55de96)** - Check out the 3D design files! 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+**Doug Matthews**
 
 ## License
 
@@ -88,6 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* To my 7 year old newphew who inspired me to build this project.
