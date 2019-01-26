@@ -14,6 +14,15 @@ A DIY Remote Control Car built using a 3D printer and Arduino that can be wirele
   * Designed and built the basic chassis of the car.
   * Found a template for the website and added some content.
   * Obtained a bluetooth module and tested its functionality.
+
+<p align="center"> 
+<img src="IMG_7638.jpg">
+</p>
+  
+<p align="center"> 
+<img src="IMG_7642.jpg">
+</p>
+ 
  
 * **Next Steps**
   * Prtotype the electrical circuit and verify that it functions as expected.
