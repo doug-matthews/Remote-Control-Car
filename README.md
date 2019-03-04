@@ -5,7 +5,7 @@ A DIY Remote Control Car built using a 3D printer and Arduino that can be wirele
 ## Objectives
 * **Mechanical Design** - Design and build the mechanical components of the car using OnShape (open source CAD Software) and a 3D Printer.
 * **Electronics** - Use basic electrical components (Arduino, servo motors, etc) to control the car.
-* **Wireless Contorl** - Wirelessly connet to the car using a bluetooth module and design an app to control the car.
+* **Wireless Control** - Wirelessly connect to the car using a bluetooth module and design an app to control the car.
 * **[Website](https://doug-matthews.github.io/Remote-Control-Car/)** - Create a website to document the project.
 
 ## Current Progress
@@ -25,7 +25,7 @@ A DIY Remote Control Car built using a 3D printer and Arduino that can be wirele
  
  
 * **Next Steps**
-  * Prtotype the electrical circuit and verify that it functions as expected.
+  * Prototype the electrical circuit and verify that it functions as expected.
   * Add more content to the website.
   * Create a Bluetooth app to control the car.
 
@@ -42,4 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* To my 7 year old newphew who inspired me to build this project.
+* To my 7 year old nephew who inspired me to build this project.
